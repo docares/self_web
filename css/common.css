@@ -1,0 +1,25 @@
+.top_nav {
+    height: 50px;
+    background-color: rgba(196, 219, 245, 0.6);
+    line-height: 50px;
+    padding-left: 20px;
+}
+.topLeft {
+    font-size: 26px;
+    color: pink;
+    float: left;
+
+}
+.topRight ul {
+    position: absolute;
+    right: 20px;
+}
+.topRight ul li {
+    float: left;
+}
+.topRight ul li a {
+    display: inline-block;
+    width: 80px;
+    height: 100%;
+    font-size: 18px;
+}
